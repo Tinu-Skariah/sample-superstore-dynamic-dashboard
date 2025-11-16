@@ -1,98 +1,41 @@
----
+📊 Interactive Data Dashboard (Tableau)
 
-# 📊 Tableau Assignment Dashboard
+This repository contains an interactive Tableau Dashboard designed to visualize and analyze key performance metrics, trends, and insights using the Sample Superstore dataset.
 
-This repository contains the **Tableau Assignment Dashboard**, a packaged Tableau workbook (`.twbx`) designed to provide clear, interactive insights into the dataset used in the assignment. It offers a visually rich overview of key performance indicators, trends, and comparative metrics.
+🧩 Tools & Technologies
 
----
+Tableau Desktop / Tableau Public – Data visualization & interactive dashboarding
 
-## 🚀 Overview
+Excel / CSV data sources – Data input and preprocessing
 
-The dashboard helps users quickly analyze and interpret data through intuitive visualizations. It is suitable for exploratory analysis, reporting, and performance monitoring.
+GitHub – Version control & project hosting
 
-Key objectives of the dashboard:
+📊 Dashboard Highlights
 
-* Provide a consolidated view of essential metrics
-* Enable interactive filtering and drill-downs
-* Present trends and comparisons in a clear visual format
-* Support data-driven decision making
+Comprehensive KPI Overview: Sales, profit margin, return rate, and category-wise performance
 
----
+Interactive Filters: Explore insights by region, year, and selected metric
 
-## 🧩 Features
+Advanced Visuals: Bar charts, geospatial maps, donut charts, and trend analysis
 
-### **✔ Interactive Filters**
+Actionable Insights: Helps identify business trends, product performance, and regional patterns
 
-Filter the dashboard by key dimensions such as category, region, or time period to explore data from different angles.
+📁 Files Included
 
-### **✔ KPI Summary**
+TABLEAU Dashboard.twbx – Tableau Packaged Workbook
 
-Top-level metrics give a snapshot of performance at a glance.
+Dashboard Preview:
 
-### **✔ Trend Visualizations**
-
-Line charts reveal changes and patterns over time.
-
-### **✔ Comparative Analysis**
-
-Bar and pie charts provide comparisons across categories, segments, or groups.
-
-### **✔ Detailed Tooltips**
-
-Hovering over elements reveals deeper insights and additional metrics.
-
----
-
-## 📁 File Included
-
-* **`tableau_assignment_dashboard.twbx`**
-  A Tableau Packaged Workbook containing:
-
-  * The dashboard
-  * Data extracts (if included)
-  * Visual assets
-
-This file can be opened directly in **Tableau Desktop**.
-
----
-
-## 🛠 How to Use
-
-1. Download the `.twbx` file from this repository
-2. Open it in **Tableau Desktop** (any recent version)
-3. Interact with filters and charts to explore insights
-4. Modify or extend the dashboard if needed
-
----
-
-## 📸 Screenshot (Optional)
-
-If you upload a screenshot, I can add it here:
-
-```md
 ![Dashboard Preview](tableau_dashboard.jpeg)
 
+🚀 How to Use
 
-```
+Download the .twbx file from this repository
 
----
+Open it in Tableau Desktop (v2024 or later) or Tableau Public
 
-## 📚 About
+Interact with the filters and charts to explore the dataset
 
-This dashboard was created as part of a Tableau data visualization assignment.
-It demonstrates skills in:
+Use the dashboard to derive insights for analysis or reporting
 
-* Data cleaning and structuring
-* Dashboard design principles
-* Visual storytelling
-* Interactive analytics
-
----
-
-If you'd like, I can also:
-
-✅ Add badges (e.g., Tableau, GitHub Actions)
-✅ Add a project structure diagram
-✅ Improve the description based on your dashboard screenshot
-
-Just upload the screenshot or tell me!
+📌 Note: Data included in this dashboard is for educational and demonstration purposes only.
