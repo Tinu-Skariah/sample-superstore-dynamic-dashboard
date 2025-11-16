@@ -70,7 +70,8 @@ This file can be opened directly in **Tableau Desktop**.
 If you upload a screenshot, I can add it here:
 
 ```md
-![Dashboard Preview](path/to/screenshot.png)
+![Dashboard Preview](tableau_dashboard.jpeg)
+
 ```
 
 ---
